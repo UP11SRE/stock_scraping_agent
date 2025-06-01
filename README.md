@@ -1,3 +1,11 @@
+*Please make sure you have UV installed in your system.
+
+To install Dependency: 
+
+```
+uv pip install -r pyproject.toml
+```
+
 to run this :
 
 `uv run main.py`
